@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Properties>
+   <AppName>desktopmusic</AppName>
+   <AppVersion>1.0.0.0</AppVersion>
+   <ConfigBuild>Debug</ConfigBuild>
+   <ConfigCPU>x86</ConfigCPU>
+   <ConfigFRAMEWORK>Framework 4.0</ConfigFRAMEWORK>
+   <ConfigENGINE>Subatomic (Next)</ConfigENGINE>
+   <EnvironmentName>xstudio</EnvironmentName>
+   <EnvironmentVersion>1.0</EnvironmentVersion>
+   <String>windows.desktopmusic.music</String>
+   <Output>\bin\x86\Debug</Output>
+</Properties>

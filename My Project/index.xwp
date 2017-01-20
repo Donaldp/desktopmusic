@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<properties>
+    <ControlBox>False</ControlBox>
+    <Cursor>Default</Cursor>
+    <EscapeKey>False</EscapeKey>
+    <FormBorderStyle>None</FormBorderStyle>
+    <Icon>/app/music2.ico</Icon>
+    <MaximizeBox>False</MaximizeBox>
+    <MinimizeBox>True</MinimizeBox>
+    <Opacity>100</Opacity>
+    <NoDefaultContextMenu>False</NoDefaultContextMenu>
+    <RightToLeft>No</RightToLeft>
+    <ShowIcon>True</ShowIcon>
+    <ShowInTaskbar>False</ShowInTaskbar>
+    <Width>270</Width>
+    <Height>540</Height>
+    <StartPosition>WindowsDefaultLocation</StartPosition>
+    <TopMost>True</TopMost>
+    <UseWaitCursor>False</UseWaitCursor>
+    <WindowState>Normal</WindowState>
+</properties>
