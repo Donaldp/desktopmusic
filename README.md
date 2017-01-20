@@ -1,4 +1,4 @@
-# desktopmusic
+# Desktop Music
 A music player created using subatomicJs
 
 Minimum Requirments for compiling this app
