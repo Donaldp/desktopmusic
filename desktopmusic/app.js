@@ -14,7 +14,7 @@
         document.body.style.margin = '0px';
         formRequest.bottomright();
         formRequest.trayApp(document.title);
-        sDirectory.getFiles(specialdirectory.mymusic + '/Music', '*.mp3', true);
+        sDirectory.getFiles(specialdirectory.mymusic, '*.mp3', true);
         application.ready('show');
     }    
     
