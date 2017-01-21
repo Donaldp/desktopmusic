@@ -201,11 +201,11 @@
     }    
     
     function trayIcon_Click() {
-        if (thiswindow.isVisible == true) {
-            thiswindow.visible(false);
+        if (thisWindow.isVisible == true) {
+            thisWindow.visible(false);
         }
         else {
-            thiswindow.visible(true);
+            thisWindow.visible(true);
         }
     }
     
