@@ -8,4 +8,4 @@ Minimum Requirments for compiling this app
 3. Windows 8
 
 
-[![trayApp(xs).jpg](https://s30.postimg.org/lp9os026p/tray_App_xs.jpg)
+![trayApp(xs).jpg](https://s30.postimg.org/lp9os026p/tray_App_xs.jpg)
