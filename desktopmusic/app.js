@@ -15,7 +15,7 @@
         formRequest.bottomright();
         formRequest.trayApp(document.title);
         sDirectory.getFiles(specialdirectory.mymusic, '*.mp3', true);
-        application.ready('show');
+        application.run();
     }    
     
     function getFiles_onRetrieve(url) {
