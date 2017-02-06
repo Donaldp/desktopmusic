@@ -9,5 +9,5 @@
    <EnvironmentName>xstudio</EnvironmentName>
    <EnvironmentVersion>1.0</EnvironmentVersion>
    <String>windows.desktopmusic.music</String>
-   <Output>\bin\x86\Debug</Output>
+   <Output>\bin\x64\Debug</Output>
 </Properties>
