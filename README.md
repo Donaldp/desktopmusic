@@ -10,19 +10,19 @@ Minimum Requirments for compiling this app
 ## Build
 Launch XS Developer Console
 
-Mount. 
+Mount 
 ```
 /desktopmusic
 ```
 
 
-Build.
+Build
 ```
 xs -build desktopmusic.xsproj
 ```
 
 
-Run.
+Run
 ```
 xs -run desktopmusic.xsproj
 ```
