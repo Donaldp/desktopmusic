@@ -12,7 +12,7 @@ Launch XS Developer Console
 
 Mount 
 ```
-/desktopmusic
+dir -mount /desktopmusic
 ```
 
 
