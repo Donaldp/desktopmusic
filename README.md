@@ -11,19 +11,19 @@ Minimum Requirments for compiling this app
 Run XS Developer Console
 
 1. Mount project directory. 
-'''
+```
 /desktopmusic
-'''
+```
 
-'''
 2. Finally build
+```
 xs -build desktopmusic.xsproj
-'''
+```
 
-'''
 3. Now run
+```
 xs -run desktopmusic.xsproj
-'''
+```
 
 ### Screenshot
 ![trayApp(xs).jpg](https://s30.postimg.org/lp9os026p/tray_App_xs.jpg)
