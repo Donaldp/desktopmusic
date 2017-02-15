@@ -8,7 +8,7 @@ Minimum Requirments for compiling this app
 3. .NET Framework 4.6
 
 ## Build
-Run XS Developer Console
+### XS Developer Console
 
 Mount project directory. 
 ```
