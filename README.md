@@ -8,7 +8,7 @@ Minimum Requirments for compiling this app
 3. .NET Framework 4.6
 
 ## Build
-Launch XS Developer Console
+Launch the Developer Command Prompt for Xylon Studio
 
 Mount 
 ```
