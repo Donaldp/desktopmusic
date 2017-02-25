@@ -26,6 +26,8 @@ Run
 ```
 xs -run desktopmusic.xsproj
 ```
+Example
+![DeveloperCommandPromptforXylonStudiowithB.png](http://s16.postimg.org/4agqbwhhh/Developer_Command_Prompt_for_Xylon_Studio_with_B.png)
 
 
 ## Screenshot
