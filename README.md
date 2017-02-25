@@ -32,7 +32,7 @@ Example
 
 ![DeveloperCommandPromptforXylonStudiowithB.png](http://s16.postimg.org/4agqbwhhh/Developer_Command_Prompt_for_Xylon_Studio_with_B.png)
 
----
+-
 Using Xylon Studio
 
 Only use Xylon Studio 2017 (between version 0.2.8 and 0.2.11)
@@ -40,6 +40,6 @@ Only use Xylon Studio 2017 (between version 0.2.8 and 0.2.11)
 Double click on "desktopmusic.xsproj" then press F5
 
 
--
+---
 ## Screenshot
 ![trayApp(xs).jpg](https://s30.postimg.org/lp9os026p/tray_App_xs.jpg)
