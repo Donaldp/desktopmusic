@@ -8,7 +8,7 @@ Minimum Requirments for compiling this app
 3. .NET Framework 4.6
 
 ## Build
-### Using Editor/IDE of choice
+Using Editor/IDE of choice
 
 Launch the Developer Command Prompt for Xylon Studio
 
@@ -26,12 +26,20 @@ xs -build desktopmusic.xsproj
 
 Run
 ```
-xs -run desktopmusic.xsproj
+xs -run /bin/x64/Release/desktopmusic.exe
 ```
-###Example
+Example
 
 ![DeveloperCommandPromptforXylonStudiowithB.png](http://s16.postimg.org/4agqbwhhh/Developer_Command_Prompt_for_Xylon_Studio_with_B.png)
 
 
+Using Xylon Studio
+
+Only use Xylon Studio 2017 (between version 0.2.8 and 0.2.11)
+
+Double click on "desktopmusic.xsproj" then press F5
+
+
+ 
 ## Screenshot
 ![trayApp(xs).jpg](https://s30.postimg.org/lp9os026p/tray_App_xs.jpg)
