@@ -8,6 +8,8 @@ Minimum Requirments for compiling this app
 3. .NET Framework 4.6
 
 ## Build
+### Using Editor/IDE of choice
+
 Launch the Developer Command Prompt for Xylon Studio
 
 Mount 
@@ -26,7 +28,8 @@ Run
 ```
 xs -run desktopmusic.xsproj
 ```
-Example
+###Example
+
 ![DeveloperCommandPromptforXylonStudiowithB.png](http://s16.postimg.org/4agqbwhhh/Developer_Command_Prompt_for_Xylon_Studio_with_B.png)
 
 
