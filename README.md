@@ -35,9 +35,9 @@ Example
 -
 Using Xylon Studio
 
-Only use Xylon Studio 2017 (between version 0.2.8 and 0.2.11)
+Only use Xylon Studio 2017 (between version 0.2.8 and 0.2.14.6)
 
-Double click on "desktopmusic.xsproj" then press F5
+Double click the "desktopmusic.xsproj" file then press F5
 
 
 ---
